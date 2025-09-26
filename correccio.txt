@@ -1,0 +1,17 @@
+Exercici 1: 1.75/2
+(a) 1/1
+(b) 0.75/1 --> 
+  diners_retornats= (preu_entrada*percentatge_tornat_per_entrada)*4
+En aquesta fórmula, el "4" hauria de ser un paràmetre (entrades_retornades)
+Hem d'agafar bons hàbits i en general a les fórmules tot el que siguin variables que hem definit anteriorment, és millor usar les variables. Així, només cal canviar el valor de la variable, i la fórmula actualitza directament els resultats.
+
+Exercici 2: 1.5/1.5
+
+Exercici 3: 1.5/1.5
+
+Exercici 4: 4/4
+
+Github: 1/1
+Jupyter: 1/1
+
+Nota final: 10.75/11 --> 9.77
